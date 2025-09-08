@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>Selectors Example</title>
+</head>
+<body>
+
+    <h1 id="main-title">Welcome to My Page</h1>
+    
+    <p class="description">This is a paragraph with class "description".</p>
+    <p class="description">Another paragraph with the same class.</p>
+    
+    
+    <ul>
+        <li>List Item 1</li>
+        <li>List Item 2</li>
+    </ul>
+
+    <script src="selectors.js"></script>
+</body>
+</html>
